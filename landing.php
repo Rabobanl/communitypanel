@@ -239,7 +239,7 @@
 				<p id="register-errors"></p>
 				<p id="register-succesfull"></p>
 				<h2>Registreren</h2>
-				<p>Voordat je registreert, zet de volgende unieke code in je Habbo missie: <strong><?= $landing->getUniqueKey() ?></strong></p>
+				<p>Voordat je registreert, zet de volgende uniekere code in je Habbo missie: <strong><?= $landing->getUniqueKey() ?></strong></p>
 				
 				<form>
 					<input type="text" id="register-username" placeholder="Habbonaam"/>
